@@ -19,7 +19,7 @@
 
 💼 &nbsp; Currently building at **Zogradfoundation** (React, Firebase, Node.js)
 
-🌍 &nbsp; Contributing to open source through **Google Summer of Code**
+🌍 &nbsp; Contributing to open source 
 
 🥈 &nbsp; **GDG McMaster Runner-Up** — UN SDG 11 Smart Cities Challenge
 
